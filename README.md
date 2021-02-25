@@ -1,4 +1,4 @@
 사용법
-1. https://github.com/bumju08/EasyHCI/releases 에 접속하여 가장 최신 글의 Assets 부분에서 제일 위에 있는 zip 파일을 다운받습니다.
+1. https://github.com/bumju08/EasyHCI/releases 에 접속하여 가장 최신 글  Assets 구역 내의 최상단 zip 파일을 다운받습니다.
 2. 한 폴더에 모든 파일을 압축해제 해줍니다.
 3. 실행하면 자동 계산&테스트됩니다. 목표치와 모든 설정들은 프로그램의 '설정' 탭에서 설정 가능합니다.
