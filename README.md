@@ -3,7 +3,7 @@
 2. 한 폴더에 모든 파일을 압축해제 해줍니다.  
   
   
-3. EasyHCI 실행  
+3. EasyHCI 실행     
 ![1](https://user-images.githubusercontent.com/74810045/115333182-3177b700-a1d4-11eb-90a2-a1da2f3066e0.png)  
   
   
