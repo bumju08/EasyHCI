@@ -3,6 +3,7 @@
 <br></br>**HCI를 사용하기 전에 TM5도 사용하실 것을 권장합니다. 또한 테스트 툴은 모두 예방 차원에서 돌리는 것이므로 너무 지나치게 큰 신뢰를 가지시면 안됩니다. 또한 실사용 시 GPU를 통해 램에 가해지는 열기도 생각하셔야합니다!**<br></br> <br></br>
 
 1. https://github.com/bumju08/EasyHCI/releases 에 접속하여 가장 최신 글  Assets 구역 내의 최상단 zip 파일을 다운받습니다.  
+![down1](https://user-images.githubusercontent.com/74810045/115340728-3479a400-a1e2-11eb-9c3f-a2e036ee5974.png)  <br></br>
 2. 한 폴더에 모든 파일을 압축해제 해줍니다.   
 
 3. EasyHCI 실행     
