@@ -44,7 +44,7 @@
   
   
   
-### [프로세스 예외처리 방법]  
+      ### [프로세스 예외처리 방법]  
 1. Resources 폴더에 들어가줍니다.  
 ![ex1](https://user-images.githubusercontent.com/74810045/115333792-3d17ad80-a1d5-11eb-93f3-46674aa803cb.png)  
   
