@@ -1,4 +1,4 @@
-###[사용법]
+### [사용법]
 1. https://github.com/bumju08/EasyHCI/releases 에 접속하여 가장 최신 글  Assets 구역 내의 최상단 zip 파일을 다운받습니다.  
 2. 한 폴더에 모든 파일을 압축해제 해줍니다.         
   
@@ -44,7 +44,7 @@
   
   
   
-[프로세스 예외처리 방법]  
+### [프로세스 예외처리 방법]  
 1. Resources 폴더에 들어가줍니다.  
 ![ex1](https://user-images.githubusercontent.com/74810045/115333792-3d17ad80-a1d5-11eb-93f3-46674aa803cb.png)  
   
