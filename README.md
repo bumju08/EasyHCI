@@ -48,7 +48,7 @@
   
 6. 아까 열어두었던 mcExcept.txt 파일의 최하단에 외워두셨던 KakaoTalk을 그대로 입력해주세요. 대소문자는 구분하지 않으셔도 됩니다.  
    이후 파일을 그대로 저장해주시면 끝입니다.
-   <br></br>**윈도우 기본 프로세스/EasyHCI는 적지 않으셔도 자동 예외처리되며, HWInfo/ZenTimings/Aida64는 첨부파일에 기본적으로 예외처리되어 있습니다.**  
+   <br></br>**윈도우 기본 프로세스/EasyHCI는 적지 않으셔도 자동 예외처리되며, HWInfo/ZenTimings/Aida64는 1.0.7버전 첨부파일에 기본적으로 예외처리되어 있습니다.**  
 ![ex6](https://user-images.githubusercontent.com/74810045/115333802-3f7a0780-a1d5-11eb-9289-5ae39eda6532.png)   <br></br>
   
   
