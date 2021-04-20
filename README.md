@@ -3,8 +3,10 @@
 2. 한 폴더에 모든 파일을 압축해제 해줍니다.  
   
   
+  
 3. EasyHCI 실행     
 ![1](https://user-images.githubusercontent.com/74810045/115333182-3177b700-a1d4-11eb-90a2-a1da2f3066e0.png)  
+    
     
     
     
@@ -12,16 +14,33 @@
 ![2](https://user-images.githubusercontent.com/74810045/115333184-32104d80-a1d4-11eb-8729-d1924ec36166.png)  
   
   
+  
+  
 5. 이후 메모리 점유율이 95% 이상으로 상승하며 통과율이 0%에서 서서히 증가될 것입니다. 테스트가 정상 시작되었습니다.  
 ![3](https://user-images.githubusercontent.com/74810045/115333187-32a8e400-a1d4-11eb-8f77-4ccd4f8a389d.png)  
   
   
-6. 테스트가 정상시작되었으면 설정 탭을 누르신 뒤 최상단 "목표치"의 값을 원하는 수치로 조정해주세요. 400%인 경우 400%까지만 테스트합니다. 보통 800~1400%로 많이들 테스트하시며, 과하게는 2000~3000%까지 테스트하시는 분들도 있습니다.  
+  
+  
+6. 테스트가 정상시작되었으면 설정 탭을 누르신 뒤 최상단 "목표치"의 값을 원하는 수치로 조정해주세요. 400%인 경우 400%까지만 테스트합니다. 보통 800%에서 1400% 사이로 많이들 테스트하시며, 과하게는 2000%에서 3000%까지 테스트하시는 분들도 있습니다.  
 ![4](https://user-images.githubusercontent.com/74810045/115333192-33417a80-a1d4-11eb-92c2-9eb48a0642c6.png)  
+  
+  
   
   
 7. 여러가지 도움되는 설정들이 있으니 입맛대로 설정해보셔요.  
 ![5](https://user-images.githubusercontent.com/74810045/115333195-3472a780-a1d4-11eb-8ba9-c3e3dc9fffae.png)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -34,12 +53,18 @@
 ![ex1](https://user-images.githubusercontent.com/74810045/115333792-3d17ad80-a1d5-11eb-93f3-46674aa803cb.png)  
   
   
+  
+  
 2. mcExcept.txt 파일을 열어줍니다.  
 ![ex2](https://user-images.githubusercontent.com/74810045/115333793-3d17ad80-a1d5-11eb-806b-c751ad5b18f2.png)  
   
   
+  
+  
 3. 파일에 설명되어있는대로, 대소문자 구별 없이 확장자는 제외하셔서 프로세스명을 적으시면 됩니다. 끝!  
 ![ex3](https://user-images.githubusercontent.com/74810045/115333796-3e48da80-a1d5-11eb-8eb6-f644c90d479b.png)  
+  
+  
   
   
 4. 만약 컴맹이라 잘 모르시겠으면 아래 예시를 참고하세요. Ctrl+Shift+ESC를 누르셔서 작업 관리자를 열어주세요.  
@@ -47,9 +72,13 @@
 ![ex4](https://user-images.githubusercontent.com/74810045/115333798-3e48da80-a1d5-11eb-88b8-d76bfafdf3c3.png)  
   
   
+  
+  
 5. 그럼 아래와 같이 카카오톡 프로세스명 + 확장자명이 나옵니다. (KakaoTalk.exe)  
    여기서 확장자인 .exe 부분은 제외하고 KakaoTalk만 외워주세요.  
 ![ex5](https://user-images.githubusercontent.com/74810045/115333801-3ee17100-a1d5-11eb-9b55-8b97e533a542.png)  
+  
+  
   
   
 6. 아까 열어두었던 mcExcept.txt 파일의 최하단에 외워두셨던 KakaoTalk을 그대로 입력해주세요. 대소문자는 구분하지 않으셔도 됩니다.  
